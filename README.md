@@ -144,4 +144,4 @@ npm run build
 - [ ] Context-aware suggestions (analyze document content)
 - [ ] Multi-language support
 - [ ] Unit tests
-- [ ] Add backend proxy to hide API key
+- [ ] Add backend proxy to hide API key or user can provide custor API key
